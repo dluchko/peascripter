@@ -1,0 +1,24 @@
+--- 
+amount: 12
+rows: 
+- "scenario author: dluchko"
+- "#RUNNING APK WITH CALABASH-ANDROID"
+- cd ~/Android/sdk/tools;
+- export ANDROID_HOME=~/Android/sdk;
+- "#running with emulator"
+- ./android create avd -n Dev -t 1;
+- ./emulator -avd Dev;
+- "#running with real device"
+- cd ~/Android/sdk/platform-tools;
+- dname=\$(./adb devices);
+- array=(\$dname);
+- cd ~/Desktop/App/;
+- DB_DEVICE_ARG=\${array[4]} calabash-android run ~/Desktop/App/App.apk
+checked: 
+- 2
+- 3
+- 8
+- 9
+- 10
+- 11
+- 12

@@ -1,0 +1,15 @@
+--- 
+amount: 10
+rows: 
+- "scenario author: author_name"
+- You can put "#SCRIPT NAME" in first row.
+- Type any BASH commands in next rows.
+- Press RUN button to execute only checked command. 
+- Each command can run any process you need.
+- One command can be splitted by rows.
+- Put ';' in the end of string to divide seperate commands.
+- Save inserted commands pressing SAVE button.
+- Load existed scenario pressing LOAD button.
+- You can adjust view selecting lines, boxes and fields.
+- You can display up to 50 rows. Look examples.
+
