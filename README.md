@@ -13,7 +13,7 @@ Installation
 
 You can download packaged peascripter.app file from outer source. 
 
-*Another way:
+Another way:
 
 1. You need to have Shoes installed. 
 2.	Download ZIP project file. Unarchive.
