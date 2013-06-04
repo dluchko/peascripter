@@ -3,7 +3,7 @@ Welcome to peascripter
 
 *Peascripter* is a command manager that allows you run any command strings in defined order, enable and disable strings, create presets and watch running processes in Terminal.
 
-*Peascripter* is a free open source project written in Ruby language using 'Shoes' user interface tool kit. 
+*Peascripter* is a free open source project written in Ruby language using [Shoes] (http://shoesrb.com/) user interface tool kit. 
 
 *Peascriptor* runs under MacOS. 
 *Will be developed for another OS’s in future as well.*
@@ -11,13 +11,9 @@ Welcome to peascripter
 Installation
 ------------
 
-You can download packaged peascripter.app file from outer source. 
-
-Another way:
-
-1. You need to have Shoes installed. 
-2.	Download ZIP project file. Unarchive.
-3.	Open peascripter.rb file via Shoes, or just drag it on Shoes icon. 
+1. You need to have [Shoes] (http://shoesrb.com/) installed. 
+2.	Download or clone *peascriptor* project.
+3.	Open peascripter.rb file via Shoes (or just drag it on Shoes icon). 
 
 Getting started
 --------------- 
