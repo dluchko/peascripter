@@ -1,4 +1,6 @@
-![](https://dl.dropboxusercontent.com/u/184478558/peascripter_logo.png)
+<p align="center">
+  <img src="https://dl.dropboxusercontent.com/u/184478558/peascripter_logo.png"/>
+</p>
 ======================
 
 *Peascripter* is a command manager that allows you run any command strings in defined order, enable and disable strings, create presets and watch running processes in Terminal.
