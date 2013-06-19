@@ -8,6 +8,8 @@ Welcome to peascripter
 *Peascriptor* runs under MacOS. 
 *Will be developed for another OS’s in future as well.*
 
+![](https://dl-web.dropbox.com/get/peascripter.png?w=AAC8VGl3gSXlOoYhPfKEZFkRYQvOMlruYw4IwTON0cwOiA)
+
 Installation
 ------------
 
