@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" vertical-align="center">
   <img src="https://dl.dropboxusercontent.com/u/184478558/peascripter_logo.png"/>
 </p>
 ======================
