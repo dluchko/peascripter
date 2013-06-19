@@ -1,4 +1,4 @@
-Welcome to peascripter ![](https://dl.dropboxusercontent.com/u/184478558/peascripter_logo.png)
+![](https://dl.dropboxusercontent.com/u/184478558/peascripter_logo.png)
 ======================
 
 *Peascripter* is a command manager that allows you run any command strings in defined order, enable and disable strings, create presets and watch running processes in Terminal.
@@ -7,7 +7,7 @@ Welcome to peascripter ![](https://dl.dropboxusercontent.com/u/184478558/peascri
 
 *Peascriptor* runs under MacOS. 
 *Will be developed for another OS’s in future as well.*
-![](https://dl.dropboxusercontent.com/u/184478558/peascripter.png)
+
 Installation
 ------------
 
@@ -17,7 +17,7 @@ Installation
 
 Getting started
 --------------- 
-
+![](https://dl.dropboxusercontent.com/u/184478558/peascripter.png)
 - Load existed example scenario pressing LOAD button.
 - Press RUN button to execute only checked command. 
 - Each command can run any process you need.
