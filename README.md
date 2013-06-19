@@ -17,7 +17,9 @@ Installation
 
 Getting started
 --------------- 
-![](https://dl.dropboxusercontent.com/u/184478558/peascripter.png)
+<p align="center">
+  <img src="https://dl.dropboxusercontent.com/u/184478558/peascripter.png"/>
+</p>
 - Load existed example scenario pressing LOAD button.
 - Press RUN button to execute only checked command. 
 - Each command can run any process you need.
